@@ -71,9 +71,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-INTRUCTIONS
+# INTRUCTIONS
 
-SERVER OR BACKEND
+# SERVER OR BACKEND
 Firstly move to the server directory eg: cd server
 
 1. Create a .env file
